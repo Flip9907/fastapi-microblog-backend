@@ -17,11 +17,6 @@ This project is a backend API built using FastAPI that supports user authenticat
 - SQLAlchemy
 - JWT Authentication
 
-## API Endpoints
-- POST /users/ - Register user
-- POST /login - Authenticate user
-- GET /posts - Get all posts
-- POST /posts - Create post
 
 ## How to Run
 ```bash
